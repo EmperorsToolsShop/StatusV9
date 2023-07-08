@@ -6,7 +6,7 @@ This is a Python script that performs a fast mass port scan on a list of domains
 
 1. Clone the repository:
 
-  git clone https://github.com/your-username/fast-mass-port-scanner.git
+  git clone https://github.com/your-username/StatusV3.git
    
 2. Navigate to the project directory:
 
