@@ -1,4 +1,4 @@
-# StatusV3
+# StatusV9
 
 This is a Python script that performs a fast mass port scan on a list of domains. It checks the status of each domain and provides information about the response codes. The script supports custom ports and allows you to specify the timeout duration and the number of threads to use.
 
@@ -6,7 +6,7 @@ This is a Python script that performs a fast mass port scan on a list of domains
 
 1. Clone the repository:
 
-  git clone https://github.com/your-username/StatusV3.git
+  git clone https://github.com/your-username/StatusV9.git
    
 2. Navigate to the project directory:
 
@@ -34,7 +34,7 @@ This is a Python script that performs a fast mass port scan on a list of domains
 
 Here's an example of how the script can be used:
 
-$ python scanner.py
+$ python statusv9.py
 
 Your list Domain Please?: domains.txt
 
