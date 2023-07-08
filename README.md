@@ -7,7 +7,7 @@ This is a Python script that performs a fast mass port scan on a list of domains
 1. Clone the repository:
 
   
-clone https://github.com/your-username/fast-mass-port-scanner.git
+  clone https://github.com/your-username/fast-mass-port-scanner.git
    
 
 2. Navigate to the project directory:
@@ -19,13 +19,13 @@ clone https://github.com/your-username/fast-mass-port-scanner.git
 3. Install the required dependencies:
 
   
-pip install -r requirements.txt
+  pip install -r requirements.txt
    
 
 4. Run the script:
 
   
-python scanner.py
+  python scanner.py
    
 
 5. Follow the prompts to provide the necessary inputs:
