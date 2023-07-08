@@ -42,12 +42,17 @@ This is a Python script that performs a fast mass port scan on a list of domains
 Here's an example of how the script can be used:
 
 $ python scanner.py
+
 EMPERORSTOOLSSHOP LEGACY
+
 https://t.me/officialEmeporsToolsShop
+
 @EmperorsToolsOfficial
+
 FAST MASS PORT SCANNER V9
 
 Your list Domain Please?: domains.txt
+
 Are We checking A custom Port? (yes or no): yes
 What port are you looking at today?: 8080
 Is this HTTP or HTTPS?: HTTP
