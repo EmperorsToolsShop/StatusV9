@@ -43,14 +43,6 @@ Here's an example of how the script can be used:
 
 $ python scanner.py
 
-EMPERORSTOOLSSHOP LEGACY
-
-https://t.me/officialEmeporsToolsShop
-
-@EmperorsToolsOfficial
-
-FAST MASS PORT SCANNER V9
-
 Your list Domain Please?: domains.txt
 
 Are We checking A custom Port? (yes or no): yes
