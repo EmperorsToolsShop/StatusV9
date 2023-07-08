@@ -1,4 +1,4 @@
-# Fast Mass Port Scanner
+# StatusV3
 
 This is a Python script that performs a fast mass port scan on a list of domains. It checks the status of each domain and provides information about the response codes. The script supports custom ports and allows you to specify the timeout duration and the number of threads to use.
 
@@ -6,25 +6,18 @@ This is a Python script that performs a fast mass port scan on a list of domains
 
 1. Clone the repository:
 
-  
-  clone https://github.com/your-username/fast-mass-port-scanner.git
+  git clone https://github.com/your-username/fast-mass-port-scanner.git
    
-
 2. Navigate to the project directory:
 
-  
- cd fast-mass-port-scanner
+  cd fast-mass-port-scanner
    
-
 3. Install the required dependencies:
 
-  
   pip install -r requirements.txt
    
-
 4. Run the script:
 
-  
   python scanner.py
    
 
