@@ -46,7 +46,11 @@ $ python scanner.py
 Your list Domain Please?: domains.txt
 
 Are We checking A custom Port? (yes or no): yes
+
 What port are you looking at today?: 8080
+
 Is this HTTP or HTTPS?: HTTP
+
 How many seconds timeout do you wish to use?: 5
+
 How many threads do you wish to use?: 10
